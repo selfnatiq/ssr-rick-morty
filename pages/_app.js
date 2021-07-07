@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
 	return (
 		<div className="container py-5">
 			<Head>
-				<title>Rick and Morty characters</title>
+				<title>Rick and Morty Characters</title>
 				<link
 					href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
 					rel="stylesheet"
